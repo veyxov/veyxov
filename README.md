@@ -1,6 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wexouv&hide_border=true&theme=radical&hide=javascript,html,css&langs_count=10&layout=compact)
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=wexouv&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
-![Con](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wexouv&theme=vue) 
 
 # Technologies
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -18,4 +17,4 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-![Graph](https://activity-graph.herokuapp.com/graph?username=wexouv&theme=minimal)
+![Graph](https://activity-graph.herokuapp.com/graph?username=wexouv&theme=react-dark&hide_border=true&hide_title=true&area=true)
